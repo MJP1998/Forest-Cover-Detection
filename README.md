@@ -33,8 +33,9 @@ network with the Adam optimize and a categorical cross-entropy loss for 30 epoch
 
 We present the accuracy and loss of the model in the next figure, on both its train set and the remaining
 validation set.
-<img width="296" alt="Accuracy with valid" src="https://user-images.githubusercontent.com/64918024/149038590-917e7123-8d7d-4380-bfcb-cc5db867d78d.PNG">
-<img width="294" alt="Loss with valid" src="https://user-images.githubusercontent.com/64918024/149038607-972a2584-6203-483f-a37e-dc7ae28fe59e.PNG">
-
+<div style="text-align: center;">
+<img width="320" height="296" lt="Accuracy with valid" src="https://user-images.githubusercontent.com/64918024/149038590-917e7123-8d7d-4380-bfcb-cc5db867d78d.PNG">
+<img width="320" height="296" alt="Loss with valid" src="https://user-images.githubusercontent.com/64918024/149038607-972a2584-6203-483f-a37e-dc7ae28fe59e.PNG">
+</div>
 We obtained 84.8% on the full test data.
 
